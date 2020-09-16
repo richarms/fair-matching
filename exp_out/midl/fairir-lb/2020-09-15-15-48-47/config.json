@@ -1,0 +1,16 @@
+{
+    "codec": "UTF-8",
+    "config_name": "config/midl/fairir-lb.json",
+    "cov_f": "data/midl/covs.npy",
+    "dataset_name": "midl",
+    "debug": false,
+    "experiment_out_dir": "exp_out/midl/fairir-lb/2020-09-15-15-48-47",
+    "fairness_threshold": 0.0,
+    "iter_limit": Infinity,
+    "load_f": "data/midl/loads.npy",
+    "load_lb_f": "data/midl/loads-lb.npy",
+    "match_model": "fairir-lb",
+    "random_seed": 2139,
+    "score_f": "data/midl/scores.npy",
+    "threads": 12
+}

@@ -1,0 +1,16 @@
+{
+    "codec": "UTF-8",
+    "config_name": "config/mk/basic-lb.json",
+    "cov_f": "data/mk/covs.npy",
+    "dataset_name": "mk",
+    "debug": false,
+    "experiment_out_dir": "exp_out/mk/basic-lb/2020-09-16-08-56-07",
+    "fairness_threshold": 0.0,
+    "iter_limit": Infinity,
+    "load_f": "data/mk/loads.npy",
+    "load_lb_f": "data/mk/loads-lb.npy",
+    "match_model": "basic-lb",
+    "random_seed": 2139,
+    "score_f": "data/mk/scores.npy",
+    "threads": 12
+}

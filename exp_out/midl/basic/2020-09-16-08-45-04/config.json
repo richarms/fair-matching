@@ -1,0 +1,16 @@
+{
+    "codec": "UTF-8",
+    "config_name": "config/midl/basic.json",
+    "cov_f": "data/midl/covs.npy",
+    "dataset_name": "midl",
+    "debug": false,
+    "experiment_out_dir": "exp_out/midl/basic/2020-09-16-08-45-04",
+    "fairness_threshold": 0.0,
+    "iter_limit": Infinity,
+    "load_f": "data/midl/loads.npy",
+    "load_lb_f": null,
+    "match_model": "basic",
+    "random_seed": 2139,
+    "score_f": "data/midl/scores.npy",
+    "threads": 12
+}
